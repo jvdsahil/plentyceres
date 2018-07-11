@@ -464,4 +464,5 @@
             "name"          : "Search: Override search filters",
             "description"   : "Override search filters in item lists and search results."
         }
+          ]
 }
